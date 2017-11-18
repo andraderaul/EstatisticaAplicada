@@ -41,6 +41,6 @@ def main():
     print("Rol", dados)
     print("AT = %.1f" %AT)
     print("K = %.1f" %K)
-    print("h = %.1f" %h)
+    print("h = %.2f" %h)
 
 main()
